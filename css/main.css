@@ -111,8 +111,8 @@ button:focus {
 }
 
 .hero {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(transparent)), url("./img/landing-page.jpg");
-  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent), url("./img/landing-page.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(transparent)), url("../img/landing-page.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.8), transparent), url("../img/landing-page.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -142,8 +142,8 @@ button:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(transparent)), url("./img/new-york-page.png");
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("./img/new-york-page.png");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(transparent)), url("../img/new-york-page.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("../img/new-york-page.png");
   background-position: center;
   background-size: cover;
   display: -webkit-box;
@@ -279,8 +279,8 @@ button:focus {
 
 #contact {
   min-height: 100vh;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(transparent)), url("/css/img/contact-mountain.png");
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("/css/img/contact-mountain.png");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(transparent)), url("../img/contact-mountain.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("../img/contact-mountain.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: -webkit-box;
